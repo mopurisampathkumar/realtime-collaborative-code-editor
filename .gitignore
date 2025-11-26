@@ -15,3 +15,15 @@
 # System
 .DS_Store
 Thumbs.db
+/.metadata/
+# Maven / Gradle build
+backend/target/
+backend/.mvn/
+backend/.gradle/
+backend/build/
+
+# IDE
+*.iml
+.idea/
+.vscode/
+
